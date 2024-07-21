@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Pramod",
+      "lastName": "Abeysekara",
+      "email": "pramodmadhushan4@gmail.com",
+      "company": "SLIIT",
+      "mobile": "+94713676236",
+      "salary": "85855"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
